@@ -1,0 +1,19 @@
+.padding {
+	padding-top: 60px;
+}
+.low-margin {
+	margin-top: 10px;
+}
+.center {
+	text-align: center;
+}
+#monCanvas {
+	cursor: none;
+}
+.afficherCurseur {
+	cursor: crosshair!important;
+}
+h1 {
+	text-align: center;
+	color: #FFF;
+}
