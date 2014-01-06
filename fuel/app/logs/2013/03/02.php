@@ -1,0 +1,31 @@
+<?php defined('COREPATH') or exit('No direct script access allowed'); ?>
+
+Warning - 02 03 2013 - 12:49:54 --> Fuel\Core\Fuel::init - The configured locale fr_FR is not installed on your system.
+Warning - 02 03 2013 - 12:50:04 --> Fuel\Core\Fuel::init - The configured locale fr_FR is not installed on your system.
+Warning - 02 03 2013 - 12:50:04 --> Fuel\Core\Fuel::init - The configured locale fr_FR is not installed on your system.
+Warning - 02 03 2013 - 12:50:07 --> Fuel\Core\Fuel::init - The configured locale fr_FR is not installed on your system.
+Warning - 02 03 2013 - 12:50:08 --> Fuel\Core\Fuel::init - The configured locale fr_FR is not installed on your system.
+Warning - 02 03 2013 - 12:50:10 --> Fuel\Core\Fuel::init - The configured locale fr_FR is not installed on your system.
+Warning - 02 03 2013 - 12:50:15 --> Fuel\Core\Fuel::init - The configured locale fr_FR is not installed on your system.
+Warning - 02 03 2013 - 12:50:16 --> Fuel\Core\Fuel::init - The configured locale fr_FR is not installed on your system.
+Warning - 02 03 2013 - 12:50:22 --> Fuel\Core\Fuel::init - The configured locale fr_FR is not installed on your system.
+Warning - 02 03 2013 - 12:50:22 --> Fuel\Core\Fuel::init - The configured locale fr_FR is not installed on your system.
+Warning - 02 03 2013 - 12:50:24 --> Fuel\Core\Fuel::init - The configured locale fr_FR is not installed on your system.
+Warning - 02 03 2013 - 12:50:28 --> Fuel\Core\Fuel::init - The configured locale fr_FR is not installed on your system.
+Warning - 02 03 2013 - 12:50:30 --> Fuel\Core\Fuel::init - The configured locale fr_FR is not installed on your system.
+Warning - 02 03 2013 - 12:50:38 --> Fuel\Core\Fuel::init - The configured locale fr_FR is not installed on your system.
+Warning - 02 03 2013 - 12:50:39 --> Fuel\Core\Fuel::init - The configured locale fr_FR is not installed on your system.
+Warning - 02 03 2013 - 12:51:48 --> Fuel\Core\Fuel::init - The configured locale fr_FR is not installed on your system.
+Warning - 02 03 2013 - 12:51:49 --> Fuel\Core\Fuel::init - The configured locale fr_FR is not installed on your system.
+Warning - 02 03 2013 - 12:51:51 --> Fuel\Core\Fuel::init - The configured locale fr_FR is not installed on your system.
+Warning - 02 03 2013 - 12:56:12 --> Fuel\Core\Fuel::init - The configured locale fr_FR is not installed on your system.
+Warning - 02 03 2013 - 12:56:12 --> Fuel\Core\Fuel::init - The configured locale fr_FR is not installed on your system.
+Warning - 02 03 2013 - 12:56:13 --> Fuel\Core\Fuel::init - The configured locale fr_FR is not installed on your system.
+Warning - 02 03 2013 - 12:56:15 --> Fuel\Core\Fuel::init - The configured locale fr_FR is not installed on your system.
+Warning - 02 03 2013 - 12:56:43 --> Fuel\Core\Fuel::init - The configured locale fr_FR is not installed on your system.
+Warning - 02 03 2013 - 12:57:44 --> Fuel\Core\Fuel::init - The configured locale fr_FR is not installed on your system.
+Error - 02 03 2013 - 12:57:44 --> Error - Call to undefined method Facebook::login() in C:\xampp\htdocs\ShopAndTroc\fuel\packages\social\classes\facebook.php on line 52
+Warning - 02 03 2013 - 12:58:14 --> Fuel\Core\Fuel::init - The configured locale fr_FR is not installed on your system.
+Error - 02 03 2013 - 12:58:14 --> Error - Call to undefined method Facebook::login() in C:\xampp\htdocs\ShopAndTroc\fuel\packages\social\classes\facebook.php on line 53
+Warning - 02 03 2013 - 12:58:23 --> Fuel\Core\Fuel::init - The configured locale fr_FR is not installed on your system.
+Warning - 02 03 2013 - 13:02:19 --> Fuel\Core\Fuel::init - The configured locale fr_FR is not installed on your system.
